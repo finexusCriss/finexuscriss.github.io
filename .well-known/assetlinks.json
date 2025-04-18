@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.finexus.example.kayaakuewalletsdk.android.dev",
+      "sha256_cert_fingerprints": [
+        "2C:DF:F5:AD:17:36:9F:F7:77:59:69:D8:E3:8B:4C:78:63:15:60:F8:62:00:E4:72:CE:DF:25:C5:9E:50:13:16"
+      ]
+    }
+  }
+]
