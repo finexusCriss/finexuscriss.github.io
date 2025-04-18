@@ -1,0 +1,15 @@
+# _config.yml
+
+# Include the `.well-known` folder and the `assetlinks.json` file
+include:
+  - .well-known
+  - .well-known/assetlinks.json
+
+# Optional: specify other settings
+markdown: kramdown
+theme: minima
+
+# You can also exclude specific folders if needed (example below)
+# exclude:
+#   - node_modules
+#   - vendor
