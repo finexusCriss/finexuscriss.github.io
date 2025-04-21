@@ -19,7 +19,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.finexus.example.kayaakuewalletsdk.android.dev",
+      "package_name": "com.finexus.example.kayaakuwalletsdk.android.dev",
       "sha256_cert_fingerprints": [
         "DA:D0:C5:B6:EC:BD:B6:4B:4F:1B:4E:FD:FA:0C:FE:52:C4:93:E9:D9:DA:AE:AC:D1:75:88:97:67:B0:0D:BB:EE"
       ]
