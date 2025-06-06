@@ -32,6 +32,19 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.finexus.example.kayaakuwalletsdk.android.dev",
+      "sha256_cert_fingerprints": [
+        "2C:DF:F5:AD:17:36:9F:F7:77:59:69:D8:E3:8B:4C:78:63:15:60:F8:62:00:E4:72:CE:DF:25:C5:9E:50:13:16"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.gox_mobile",
       "sha256_cert_fingerprints": [
         "0A:1F:21:62:97:84:62:0B:40:68:FF:32:4D:27:3B:29:A7:DF:9D:4B:2C:47:2C:56:E5:8C:B8:BD:27:53:88:43"
