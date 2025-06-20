@@ -50,5 +50,31 @@
         "0A:1F:21:62:97:84:62:0B:40:68:FF:32:4D:27:3B:29:A7:DF:9D:4B:2C:47:2C:56:E5:8C:B8:BD:27:53:88:43"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.finexuskayaakuewalletsdkreactnativeexample",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.finexuskayaakuewalletsdkreactnativeexample",
+      "sha256_cert_fingerprints": [
+        "2C:DF:F5:AD:17:36:9F:F7:77:59:69:D8:E3:8B:4C:78:63:15:60:F8:62:00:E4:72:CE:DF:25:C5:9E:50:13:16"
+      ]
+    }
   }
 ]
